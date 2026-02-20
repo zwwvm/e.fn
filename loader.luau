@@ -1,5 +1,5 @@
 local games = {
-    path = "https://raw.githubusercontent.com/zwwvm/e.pn/refs/heads/main/games/",
+    path = "https://raw.githubusercontent.com/zwwvm/e.fn/refs/heads/main/games/",
     ["fpv_drone_game"] = {
         placeid = 108780627652357,
         executors = { "any" },
