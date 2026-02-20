@@ -7,7 +7,7 @@ cfg = {
 local repo = 'https://raw.githubusercontent.com/violin-suzutsuki/LinoriaLib/main/'
 local Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
 
-local Window = Library:CreateWindow({Title = 'e.pn | fpv drone game ( key: right shift )', Center = true, AutoShow = true})
+local Window = Library:CreateWindow({Title = 'e.fn | fpv drone game ( key: right shift )', Center = true, AutoShow = true})
 
 local main_tab = Window:AddTab('main')
 local modifications_box = main_tab:AddLeftTabbox()
